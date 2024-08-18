@@ -1,4 +1,4 @@
-![Meu Portfólio](https://enne-amore.github.io/Portfolio/)
+[Meu Portfólio](https://enne-amore.github.io/Portfolio/)
 
 - 👋 Hi, I’m @Enne-Amore
 - 👀 I’m interested in design
