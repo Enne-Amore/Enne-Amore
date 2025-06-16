@@ -11,10 +11,10 @@
 **`Desenvolvimento Front-end`**
 
 <p>
-    Sou ume estudante de Sistemas Para Internet e profissional em desenvolvimento web trabalhando na parte de Front-End e de UI-UX Design a partir do ano passado. Desde pequene, sempre amei trabalhar com o visual de um projeto, e com o passar do tempo, fui me descobrindo cada vez mais até chegar aos objetivos que cheguei hoje. Atuo nessa área dentro e fora da faculdade continuamente, além de ter a intenção de trabalhar nas questões de comunidades vulnerabilizadas socialmente através das minhas áreas de vocação.
+  Sou graduade em Sistemas Para Internet e profissional nas áreas de desenvolvimento, pois estou me especializando em Desenvolvimento Frontend e em UI-UX Design. Sempre amei trabalhar com o visual de projetos dentro da Tecnologia da Informação(TI). Desde então, sigo evoluindo minhas habilidades técnicas e comportamentais dentro e fora da faculdade. Além disso, gosto de poder trabalhar nas questões de comunidades vulnerabilizadas socialmente através das minhas áreas de vocação.
 </p>
-<a href="https://enne-amore.github.io/Portfolio/" style="color: #F20587;text-decoration: underline;">
-    Conheça minhas obras web pelo meu portfólio
+<a href="https://bit.ly/ennejimpessoa" style="color: #F20587;text-decoration: underline;">
+  Conheça minhas obras web pelo meu portfólio
 </a>
 
 
