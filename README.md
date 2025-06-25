@@ -34,7 +34,9 @@
 
 ## 🏅 Badges
  
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e8222c38-172d-4699-9d45-a696c826a548" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ <p align="left">
+   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100">
+ </p>
 
 
 ![Enne GitHub stats](https://github-readme-stats.vercel.app/api?username=Enne-Amore&show_icons=true&theme=synthwave)
