@@ -13,7 +13,7 @@
 <p>
   Sou graduade em Sistemas Para Internet e profissional nas áreas de desenvolvimento, pois estou me especializando em Desenvolvimento Frontend e em UI-UX Design. Sempre amei trabalhar com o visual de projetos dentro da Tecnologia da Informação(TI). Desde então, sigo evoluindo minhas habilidades técnicas e comportamentais dentro e fora da faculdade. Além disso, gosto de poder trabalhar nas questões de comunidades vulnerabilizadas socialmente através das minhas áreas de vocação.
 </p>
-<a href="https://bit.ly/ennejimpessoa" style="color: #F20587;text-decoration: underline;">
+<a href="https://bit.ly/ennejimpessoa" aria-label="Link para o meu portfólio web" target="_blank" rel="external">
   Conheça minhas obras web pelo meu portfólio
 </a>
 
@@ -39,7 +39,7 @@
 ## 🏅 Badges
  
  <p align="left">
-   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100">
+   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" height="120">
  </p>
 
 
