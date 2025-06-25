@@ -39,7 +39,7 @@
 ## 🏅 Badges
  
  <p align="left">
-   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120" height="120">
+   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" title="AWS Certified Cloud Practioner Foundational" alt="AWS Certified Cloud Practioner Foundational" width="120" height="120">
  </p>
 
 
