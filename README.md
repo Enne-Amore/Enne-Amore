@@ -16,7 +16,7 @@
 <p>
   Desenvolvo nessas áreas dentro e fora da faculdade continuamente, e também tenho interesse em ajudar comunidades minorizadas e diversas socialmente com empatia através das minhas habilidades técnicas e comportamentais nas quais vivo evoluindo diariamente, além de incluir acessibilidade web nos meus trabalhos.
 </p>
-<a href="https://bit.ly/ennejimpessoa" aria-label="Link para o meu portfólio web" target="_blank" rel="external">
+<a href="https://ennejimpessoa.vercel.app/" aria-label="Link para o meu portfólio web" target="_blank" rel="external">
   Visite o meu portfólio para conhecer meus trabalhos web
 </a>
 
@@ -33,6 +33,11 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" title="Vite" alt="Vite" width="40" height="40"/>
    <img src="https://raw.githubusercontent.com/nuxt/modules/main/icons/headlessui.png" title="Headless UI" alt="Headless UI" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" title="React Icons" alt="React Icons" width="40" height="40"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXdKj0luKnS60quv6sXxn5JzSZ8Mk0kcFbAA&s" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>
+   <img src="https://miro.medium.com/v2/resize:fit:1080/1*9l9kbbiuFHWVqcjUJZcdYw.png" title="Zod" alt="Zod" width="40" height="40"/>
+   <img src="https://www.emailjs.com/logo.png" title="EmailJS" alt="EmailJS" width="40" height="40"/>
+   <img src="https://avatars.githubusercontent.com/u/139895814?v=4" title="Shadcn UI" alt="Shadcn UI" width="40" height="40"/>
    <img src="https://assets.dio.me/A4XzrRX8YwFa0fXISyeA2qjpavnDXSHIJY1FxVvFY8U/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzNkNmQyNTY1LTM0MTEtNDdjMi05ZGQ0LTU3MGVlYjQ4YmE5ZS5wbmc" title="Amazon Web Services" alt="Amazon Web Services" width="70" height="40"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>
